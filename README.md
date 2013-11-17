@@ -14,6 +14,6 @@ Encryption/Decryption using the MCrypt PHP library. Rijndael-256 (AES) cipher, a
 Server Requirements:<br>
 Apache Server v2.2 or greater. (2.4 RECOMMENDED.)<br>
 PHP version 5.2 or greater. (5.3+ RECOMMENDED.)<br>
-MySql version 4.1 or greater. (5.0+ HIGHLY RECOMMENDED.)<br><br>
+MySql version 4.1 or greater. (5.0+ HIGHLY RECOMMENDED.)<br>
 
 Version 0.5.5 beta coming soon.
